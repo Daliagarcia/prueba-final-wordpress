@@ -22,7 +22,7 @@
 
   - Analisis SEO de las entradas
   - Entrada 1
-   ![](img/SEO-entrada1.png)
+   ![](img/SEO-entrada-1.png)
    ![](img/readability-entrada1.png)
 
   - Entrada 2
